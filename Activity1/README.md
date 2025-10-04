@@ -4,7 +4,7 @@
 
 - [Affinity Diagram](Affinity%20Diagram/README.md)
 - [Site maps](Site%20Maps/README.md)
-- [Empathy Maps](empathy%20maps/README.md)
+- [Empathy Maps](Empathy%20maps/README.md)
 - [Prototypes](Prototypes/README.md)
 - [User Story Maps](User%20Story%20Maps/Readme.md)
 
