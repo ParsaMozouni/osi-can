@@ -1,4 +1,4 @@
-# Prototypes
+# Site Maps
 
 ## Table of Contents
 
