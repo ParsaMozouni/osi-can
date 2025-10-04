@@ -55,16 +55,16 @@ Additionally, these prototypes emphasize **understanding & discoverability** bec
 
 ### Abrianna Primavera
 
-| <img src="primavera-1.jpg"> | <img src="primavera-2.jpg"> |
+| <img src="Primavera-1.jpg"> | <img src="Primavera-2.jpg"> |
 | --------------------------- | --------------------------- |
 
-| <img src="primavera-3.jpg"> | <img src="primavera-4.jpg"> |
+| <img src="Primavera-3.jpg"> | <img src="Primavera-4.jpg"> |
 | --------------------------- | --------------------------- |
 
-| <img src="primavera-5.jpg"> | <img src="primavera-6.jpg"> |
+| <img src="Primavera-5.jpg"> | <img src="Primavera-6.jpg"> |
 | --------------------------- | --------------------------- |
 
-| <img src="primavera-7.jpg"> | <img src="primavera-8.jpg"> |
+| <img src="Primavera-7.jpg"> | <img src="Primavera-8.jpg"> |
 | --------------------------- | --------------------------- |
 
 ---
