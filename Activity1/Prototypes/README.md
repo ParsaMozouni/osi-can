@@ -20,11 +20,10 @@ In this section, we present our prototypes that helped us shape the project desi
 ---
 
 ## Why Lo-Fi Prototypes
-
-We created these **lo-fi prototypes** because they are **efficient and fast** to make.  
-The main goal was to quickly validate ideas and **get feedback from customers** without investing too much time in high-fidelity designs at this early stage.
-
-Additionally, these prototypes emphasize **understanding & discoverability** because of their **simpler layout and cleaner design**, which improves the **pickup of information** and helps users engage more effectively with the product.
+Before we made our prototype, we had one goal in mind: that anyone who views our prototype can understand, to a certain level, what we are trying to communicate. This is why we made these three sets of criteria for ourselves when creating the prototypes:
+	1.	Simplicity: We tried to make the prototype as simple and generic as possible. Aside from the fact that we are not the best artists ever, we aimed to simplify what the user will see on each page when using the application. We tried to capture the important things such as where certain texts should go, where pictures should be placed, as well as where the menu should be and how it should look on every page.
+	2.	Affordance: This is the concept that properties or elements of the prototype should give an idea of how they will be used. This concept was implemented in our prototype as we shaded buttons so that they look like they could be clickable and interactive. We also made it clear where pictures and text are supposed to be.
+	3.	Gestalt Feature: This is the concept that humans perceive things as wholes, not parts. We tried to implement this in our design; when designing every page, we included a logo icon at the top. We also included the main features we wanted on every page, such as the menu bar, so that the viewer can see things as a whole rather than as separated parts.
 
 ---
 
@@ -54,6 +53,8 @@ Additionally, these prototypes emphasize **understanding & discoverability** bec
 ---
 
 ### Abrianna Primavera
+
+The Events page prototype showcases the Gestalt principle of enclosure. All the images for the different events are enclosed in their own spaces. This helps to cleanly group the related images and to separate the different events. It also makes it possible to display multiple events on the same page in a more organized way. The dropdowns on the target demographic prototypes are also examples of this.
 
 | <img src="Primavera-1.jpg"> | <img src="Primavera-2.jpg"> |
 | --------------------------- | --------------------------- |
