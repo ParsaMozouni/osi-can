@@ -40,7 +40,6 @@ Our site map is simpler, clearer, and more user-focused. It groups pages logical
 
 ### Bushra Alkhateeb
 
-**Prototypes:**  
 ![Bushra site map](sitemap-bushra.jpg)
 
 ---
