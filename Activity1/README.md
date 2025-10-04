@@ -10,11 +10,6 @@
 
 ---
 
-## The Process
-
-This section describes the overall design and development process followed in this project.  
-It covers initial research, ideation, and iterative steps toward the final solution.
-
 ## Customer notes
 
 Written below are the summarized notes given to us by Julius Brown, the executive
