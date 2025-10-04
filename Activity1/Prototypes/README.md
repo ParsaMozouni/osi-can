@@ -80,6 +80,7 @@ The Events page prototype showcases the Gestalt principle of enclosure. All the 
 | --------------------------- | --------------------------- |
 
 ---
+### Chimeremeze Richmond
 
 For the first activity, I have designed low-fidelity wireframe prototypes for the six primary webpages I have narrowed down for an OSI-CAN revamped website: Home Page, Programs/Events Page, Contribute Page, About Us Page, Publications Page, and Contact Us Page. In designing these low-fidelity wireframes, I carefully considered three concepts in People-Centred Design: affordances, signifiers, and constraints.
 
@@ -89,7 +90,6 @@ Signifiers are visual and, at times, auditory means of identifying where a user 
 
 Constraints refer to the limitations of one’s resources when designing a project. For the project encompassing this activity, my team will mainly be constrained by time and the software we are assigned to use (WordPress). Due to limited time and I’m a beginner with the application, I’ve come up with a wireframe design that’s simple but elegant and efficient.
 
-### Chimeremeze Richmond
 
 | <img src="Chimermeze-1.png"> | <img src="Chimermeze-2.png"> |
 | ---------------------------- | ---------------------------- |
