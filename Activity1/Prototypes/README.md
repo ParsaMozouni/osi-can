@@ -20,13 +20,14 @@ In this section, we present our prototypes that helped us shape the project desi
 ---
 
 ## Why Lo-Fi Prototypes
-Before we made our prototype, we had one goal in mind: that anyone who views our prototype can understand, to a certain level, what we are trying to communicate. This is why we made these three sets of criteria for ourselves when creating the prototypes
 
-	1.	Simplicity: We tried to make the prototype as simple and generic as possible. Aside from the fact that we are not the best artists ever, we aimed to simplify what the user will see on each page when using the application. We tried to capture the important things such as where certain texts should go, where pictures should be placed, as well as where the menu should be and how it should look on every page.
-	
-	2.	Affordance: This is the concept that properties or elements of the prototype should give an idea of how they will be used. This concept was implemented in our prototype as we shaded buttons so that they look like they could be clickable and interactive. We also made it clear where pictures and text are supposed to be.
-	
-	3.	Gestalt Feature: This is the concept that humans perceive things as wholes, not parts. We tried to implement this in our design; when designing every page, we included a logo icon at the top. We also included the main features we wanted on every page, such as the menu bar, so that the viewer can see things as a whole rather than as separated parts.
+Before we made our prototype, we had one goal in mind: that anyone who views our prototype can understand, to a certain level, what we are trying to communicate. This is why we made these three sets of criteria for ourselves when creating the prototypes:
+
+1. **Simplicity:** We tried to make the prototype as simple and generic as possible. Aside from the fact that we are not the best artists ever, we aimed to simplify what the user will see on each page when using the application. We tried to capture the important things such as where certain texts should go, where pictures should be placed, as well as where the menu should be and how it should look on every page.
+
+2. **Affordance:** This is the concept that properties or elements of the prototype should give an idea of how they will be used. This concept was implemented in our prototype as we shaded buttons so that they look clickable and interactive. We also made it clear where pictures and text are supposed to be.
+
+3. **Gestalt Feature:** This is the concept that humans perceive things as wholes, not parts. We tried to implement this in our design; when designing every page, we included a logo icon at the top. We also included the main features we wanted on every page, such as the menu bar, so that the viewer can see things as a whole rather than as separated parts.
 
 ---
 
