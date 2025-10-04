@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Why Lo-Fi Prototypes](#why-lo-fi-prototypes)
+- [Design Principles Behind Our Lo-Fi Prototypes](#design-principles-behind-our-lo-fi-prototypes)
 - [Team Members](#team-members)
   - [Parsa Mozouni](#parsa-mozouni)
   - [Bushra Alkhateeb](#bushra-alkhateeb)
@@ -19,7 +19,7 @@ In this section, we present our prototypes that helped us shape the project desi
 
 ---
 
-## Why Lo-Fi Prototypes
+## Design Principles Behind Our Lo-Fi Prototypes
 
 Before we made our prototype, we had one goal in mind: that anyone who views our prototype can understand, to a certain level, what we are trying to communicate. This is why we made these three sets of criteria for ourselves when creating the prototypes:
 
