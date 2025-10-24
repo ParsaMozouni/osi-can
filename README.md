@@ -52,6 +52,6 @@ We individually designed multiple paper-based low-fidelity interface prototypes 
 We developed a fully interactive high-fidelity prototype in Figma/Penpot with responsive mobile and desktop layouts, incorporating people-centred design principles such as affordances, constraints, and Gestalt. We prepared a usability testing plan (task-based + open-ended questions) and presented the prototype during the customer check-in to gather feedback and validate our envisioned MVP direction, updating the user story map as needed.
 
 - [High-fidelity prototype](HFP%20&%20Proccess/High-fidelityPrototype.pdf) 
-- [High-fidelity prototype figma file](HFP%20&%20Proccess/osi-can-hfp.fig)
+- [High-fidelity prototype figma file](HFP%20&%20Proccess/High-fidelity-Prototype.pdf)
 - [Design ideas](HFP%20&%20Proccess/Course%20Material%20Relation.pdf)
 - [formative usability Questionnaire](HFP%20&%20Proccess/formativeUsabilityQuestionnaire.md)
