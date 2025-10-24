@@ -34,10 +34,24 @@ Skill level: most of our group members are somewhat beginners in this matter and
 - [Abrianna Primavera](https://github.com/Abripri)
 - [Chimeremeze Richmond](https://github.com/Chimeremeze543)
 
-## Activities
+# Activities
 
+## First proccess (Activity 1)
 
-<p align="left">
-  <a href="Activity1/README.md">
-    <img src="https://img.shields.io/badge/Activity-1-blue?style=for-the-badge" alt="Activity 1"/>
-</p>
+We individually designed multiple paper-based low-fidelity interface prototypes and site navigation/sitemap concepts to explore different user flows and layouts. These designs were directly informed by our empathy mapping insights and applied people-centred design principles
+
+- [Needs Chart and ustomer notes](Activity1/Affinity%20Diagram/README.md)
+- [Affinity Diagram](Activity1/Affinity%20Diagram/README.md)
+- [Site maps](Activity1/Site%20Maps/README.md)
+- [Empathy Maps](Activity1/Empathy%20Maps/README.md)
+- [Prototypes](Activity1/Prototypes/README.md)
+- [User Story Maps](Activity1/User%20Story%20Maps/Readme.md)
+
+## High-fidelity & the Process (Activity 2)
+
+We developed a fully interactive high-fidelity prototype in Figma/Penpot with responsive mobile and desktop layouts, incorporating people-centred design principles such as affordances, constraints, and Gestalt. We prepared a usability testing plan (task-based + open-ended questions) and presented the prototype during the customer check-in to gather feedback and validate our envisioned MVP direction, updating the user story map as needed.
+
+- [High-fidelity prototype](HFP%20&%20Proccess/High-fidelityPrototype.pdf) 
+- [High-fidelity prototype figma file](HFP%20&%20Proccess/osi-can-hfp.fig)
+- [Design ideas](HFP%20&%20Proccess/Course%20Material%20Relation.pdf)
+- [formative usability Questionnaire](HFP%20&%20Proccess/formativeUsabilityQuestionnaire.md)
