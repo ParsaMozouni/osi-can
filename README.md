@@ -55,3 +55,5 @@ We developed a fully interactive high-fidelity prototype in Figma/Penpot with re
 - [High-fidelity prototype figma file](HFP%20&%20Proccess/osi-can-hfp.fig)
 - [Design ideas](HFP%20&%20Proccess/Course%20Material%20Relation.pdf)
 - [formative usability Questionnaire](HFP%20&%20Proccess/formativeUsabilityQuestionnaire.md)
+- [Summarized insights](HFP%20&%20Proccess/Summarized%20insights%20from.pdf)
+
