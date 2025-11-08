@@ -40,12 +40,12 @@ Skill level: most of our group members are somewhat beginners in this matter and
 
 We individually designed multiple paper-based low-fidelity interface prototypes and site navigation/sitemap concepts to explore different user flows and layouts. These designs were directly informed by our empathy mapping insights and applied people-centred design principles
 
-- [Needs Chart and ustomer notes](Low-fidelity%20prototype%20&%20Proccess/Affinity%20Diagram/README.md)
-- [Affinity Diagram](Activity1/Affinity%20Diagram/README.md)
-- [Site maps](Low-fidelity%20prototype%20&%20Proccess/Site%20Maps/README.md)
-- [Empathy Maps](Low-fidelity%20prototype%20&%20Proccess/Empathy%20Maps/README.md)
-- [Prototypes](Low-fidelity%20prototype%20&%20Proccess/Prototypes/README.md)
-- [User Story Maps](Low-fidelity%20prototype%20&%20Proccess/User%20Story%20Maps/Readme.md)
+- [Needs Chart and ustomer notes](Low-fidelity%20prototype%20&%20proccess/Affinity%20Diagram/README.md)
+- [Affinity Diagram](Low-fidelity%20prototype%20&%20proccess/Affinity%20Diagram/README.md)
+- [Site maps](Low-fidelity%20prototype%20&%20proccess/Site%20Maps/README.md)
+- [Empathy Maps](Low-fidelity%20prototype%20&%20proccess/Empathy%20Maps/README.md)
+- [Prototypes](Low-fidelity%20prototype%20&%20proccess/Prototypes/README.md)
+- [User Story Maps](Low-fidelity%20prototype%20&%20proccess/User%20Story%20Maps/Readme.md)
 
 ## High-fidelity & the Process (Activity 2)
 
