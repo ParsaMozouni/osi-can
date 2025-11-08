@@ -40,20 +40,26 @@ Skill level: most of our group members are somewhat beginners in this matter and
 
 We individually designed multiple paper-based low-fidelity interface prototypes and site navigation/sitemap concepts to explore different user flows and layouts. These designs were directly informed by our empathy mapping insights and applied people-centred design principles
 
-- [Needs Chart and ustomer notes](Activity1/Affinity%20Diagram/README.md)
+- [Needs Chart and ustomer notes](Low-fidelity%20prototype%20&%20Proccess/Affinity%20Diagram/README.md)
 - [Affinity Diagram](Activity1/Affinity%20Diagram/README.md)
-- [Site maps](Activity1/Site%20Maps/README.md)
-- [Empathy Maps](Activity1/Empathy%20Maps/README.md)
-- [Prototypes](Activity1/Prototypes/README.md)
-- [User Story Maps](Activity1/User%20Story%20Maps/Readme.md)
+- [Site maps](Low-fidelity%20prototype%20&%20Proccess/Site%20Maps/README.md)
+- [Empathy Maps](Low-fidelity%20prototype%20&%20Proccess/Empathy%20Maps/README.md)
+- [Prototypes](Low-fidelity%20prototype%20&%20Proccess/Prototypes/README.md)
+- [User Story Maps](Low-fidelity%20prototype%20&%20Proccess/User%20Story%20Maps/Readme.md)
 
 ## High-fidelity & the Process (Activity 2)
 
 We developed a fully interactive high-fidelity prototype in Figma/Penpot with responsive mobile and desktop layouts, incorporating people-centred design principles such as affordances, constraints, and Gestalt. We prepared a usability testing plan (task-based + open-ended questions) and presented the prototype during the customer check-in to gather feedback and validate our envisioned MVP direction, updating the user story map as needed.
 
-- [High-fidelity prototype](HFP%20&%20Proccess/High-fidelity-Prototype.pdf) 
-- [High-fidelity prototype figma file](HFP%20&%20Proccess/osi-can-hfp.fig)
-- [Design ideas](HFP%20&%20Proccess/Course%20Material%20Relation.pdf)
-- [formative usability Questionnaire](HFP%20&%20Proccess/formativeUsabilityQuestionnaire.md)
-- [Summarized insights](HFP%20&%20Proccess/Summarized%20insights%20from.pdf)
+- [High-fidelity prototype](High-fidelity%20prototype%20&%20Proccess/High-fidelity-Prototype.pdf)
+- [High-fidelity prototype figma file](High-fidelity%20prototype%20&%20Proccess/osi-can-hfp.fig)
+- [Design ideas](High-fidelity%20prototype%20&%20Proccess/Course%20Material%20Relation.pdf)
+- [formative usability Questionnaire](High-fidelity%20prototype%20&%20Proccess/formativeUsabilityQuestionnaire.md)
+- [Summarized insights](High-fidelity%20prototype%20&%20Proccess/Summarized%20insights%20from.pdf)
 
+## Wordpress website, reports and notes (Activity 3)
+
+- [Project Status Report](Wordpress%20website,%20reports%20and%20notes/ProjectStatusReport.pdf)
+- [Major ideas and concepts in design](Wordpress%20website,%20reports%20and%20notes/Major%20Ideas%20and%20Concepts%20in%20Design.pdf)
+- [User Story Map](Wordpress%20website,%20reports%20and%20notes/StoryMap.md)
+- [Summarized Customer Notes](Wordpress%20website,%20reports%20and%20notes/Customer-Notes.pdf)
