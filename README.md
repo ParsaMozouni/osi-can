@@ -63,3 +63,4 @@ We developed a fully interactive high-fidelity prototype in Figma/Penpot with re
 - [Major ideas and concepts in design](Wordpress%20website,%20reports%20and%20notes/Major%20Ideas%20and%20Concepts%20in%20Design.pdf)
 - [User Story Map](Wordpress%20website,%20reports%20and%20notes/StoryMap.md)
 - [Summarized Customer Notes](Wordpress%20website,%20reports%20and%20notes/Customer-Notes.pdf)
+- [Demo](https://group-d.softsys.ca)
