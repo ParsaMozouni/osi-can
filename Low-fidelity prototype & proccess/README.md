@@ -1,16 +1,5 @@
 # Project Documentation
 
-## Table of Contents
-
-- [Affinity Diagram](Affinity%20Diagram/README.md)
-- [Site maps](Site%20Maps/README.md)
-- [Empathy Maps](Empathy%20Maps/README.md)
-- [Prototypes](Prototypes/README.md)
-- [User Story Maps](User%20Story%20Maps/Readme.md)
-
----
-
-##
 
 ## Needs Chart
 
