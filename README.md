@@ -59,6 +59,8 @@ We developed a fully interactive high-fidelity prototype in Figma/Penpot with re
 
 ## Wordpress website, reports and notes (Activity 3)
 
+We turned our prototype designs into an actual website using the WordPress website builder. The following files show our current work-in-progress design, as well as the customer feedback we have received.
+
 - [Project Status Report](Wordpress%20website,%20reports%20and%20notes/ProjectStatusReport.pdf)
 - [Major ideas and concepts in design](Wordpress%20website,%20reports%20and%20notes/Major%20Ideas%20and%20Concepts%20in%20Design.pdf)
 - [User Story Map](Wordpress%20website,%20reports%20and%20notes/StoryMap.md)
