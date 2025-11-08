@@ -40,7 +40,7 @@ Skill level: most of our group members are somewhat beginners in this matter and
 
 We individually designed multiple paper-based low-fidelity interface prototypes and site navigation/sitemap concepts to explore different user flows and layouts. These designs were directly informed by our empathy mapping insights and applied people-centred design principles
 
-- [Needs Chart and Customer notes](Activity%201:&20Brainstorming&20and%20Planning/Affinity%20Diagram/README.md)
+- [Needs Chart and Customer notes](Activity%201:%20Brainstorming%20and%20Planning/Affinity%20Diagram/README.md)
 - [Affinity Diagram](Low-fidelity%20prototype%20&%20proccess/Affinity%20Diagram/README.md)
 - [Site maps](Low-fidelity%20prototype%20&%20proccess/Site%20Maps/README.md)
 - [Empathy Maps](Low-fidelity%20prototype%20&%20proccess/Empathy%20Maps/README.md)
