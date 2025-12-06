@@ -66,3 +66,8 @@ We turned our prototype designs into an actual website using the WordPress websi
 - [User Story Map](Wordpress%20website,%20reports%20and%20notes/StoryMap.md)
 - [Summarized Customer Notes](Wordpress%20website,%20reports%20and%20notes/Customer-Notes.pdf)
 - [Demo](https://group-d.softsys.ca)
+
+## Final delivery
+-[Project Report-Out & Lessons Learned](Project%20Report-Out%20&%20Lessons%20Learned%20-%20ENSE%20271.pdf)
+-[Customer Notes](GroupD_Ense271_MainProject_Activity4_CustomerNotes_2025.pdf)
+
