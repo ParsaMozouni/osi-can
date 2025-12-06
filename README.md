@@ -40,12 +40,12 @@ Skill level: most of our group members are somewhat beginners in this matter and
 
 We individually designed multiple paper-based low-fidelity interface prototypes and site navigation/sitemap concepts to explore different user flows and layouts. These designs were directly informed by our empathy mapping insights and applied people-centred design principles
 
-- [Needs Chart and Customer notes](Activity%201%3A%20Brainstorming%20and%20Planning/Affinity%20Diagram/README.md)
-- [Affinity Diagram](Activity%201%3A%20Brainstorming%20and%20Planning/Affinity%20Diagram/README.md)
-- [Site maps](Activity%201%3A%20Brainstorming%20and%20Planning/Site%20Maps/README.md)
-- [Empathy Maps](Activity%201%3A%20Brainstorming%20and%20Planning/Empathy%20Maps/README.md)
-- [Prototypes](Activity%201%3A%20Brainstorming%20and%20Planning/Prototypes/README.md)
-- [User Story Maps](Activity%201%3A%20Brainstorming%20and%20Planning/User%20Story%20Maps/Readme.md)
+- [Needs Chart and Customer notes](Brainstorming%20and%20Planning/Affinity%20Diagram/README.md)
+- [Affinity Diagram](Brainstorming%20and%20Planning/Affinity%20Diagram/README.md)
+- [Site maps](Brainstorming%20and%20Planning/Site%20Maps/README.md)
+- [Empathy Maps](Brainstorming%20and%20Planning/Empathy%20Maps/README.md)
+- [Prototypes](Brainstorming%20and%20Planning/Prototypes/README.md)
+- [User Story Maps](Brainstorming%20and%20Planning/User%20Story%20Maps/Readme.md)
 
 ## High-fidelity & the Process (Activity 2)
 
