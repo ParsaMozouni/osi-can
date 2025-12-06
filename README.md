@@ -68,6 +68,6 @@ We turned our prototype designs into an actual website using the WordPress websi
 - [Demo](https://group-d.softsys.ca)
 
 ## Final delivery
--[Project Report-Out & Lessons Learned](Project%20Report-Out%20&%20Lessons%20Learned%20-%20ENSE%20271.pdf)
--[Customer Notes](GroupD_Ense271_MainProject_Activity4_CustomerNotes_2025.pdf)
+- [Project Report-Out & Lessons Learned](Project%20Report-Out%20&%20Lessons%20Learned%20-%20ENSE%20271.pdf)
+- [Customer Notes](GroupD_Ense271_MainProject_Activity4_CustomerNotes_2025.pdf)
 
